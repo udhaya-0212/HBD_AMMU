@@ -1,0 +1,1 @@
+Optional sound effects can be stored here. No sound files are required.

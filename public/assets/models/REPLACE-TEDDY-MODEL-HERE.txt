@@ -1,0 +1,1 @@
+Optional: add teddy.glb here. The procedural Three.js teddy remains active when no model is supplied.
